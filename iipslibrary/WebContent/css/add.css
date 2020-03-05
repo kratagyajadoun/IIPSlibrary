@@ -1,0 +1,19 @@
+@CHARSET "ISO-8859-1";
+h1
+{
+	color:white;
+	
+}
+
+input
+{    
+	 color: rgb(19, 31, 48); 
+     border: none;
+     padding: 15px 32px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 12px;
+	 background-color:white;
+	 width:120px;
+}

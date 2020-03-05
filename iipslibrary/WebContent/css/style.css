@@ -1,0 +1,65 @@
+@CHARSET "ISO-8859-1";
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+body{
+
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(books.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	overflow-y:hidden;
+    height: 100vh;
+
+}
+.log{
+	
+	float: right;
+	margin-top: 50px;
+	margin-right: 20px;
+	color:white;
+	background-color:rgb(19, 31, 48);
+}
+.intro{
+	
+	
+	background-color:rgb(19, 31, 48);
+	color:white;
+	padding: 30px;
+
+}
+.sign{
+	
+	
+    
+	float: right;
+	
+	color: white;
+}
+input{
+	border-radius: 8px;
+    
+}
+
+#sign{
+	background-color: rgb(33, 112, 46);
+	width: 100px;
+	
+	border:1px;
+}
+
+#log{
+    background-color:white;
+	border:1px;
+	border-radius: 0px;
+	padding: 3px;
+
+}
+.sign input{
+	height: 30px;
+    width: 300px;
+    margin-right: 150px;  
+
+}

@@ -1,0 +1,50 @@
+@CHARSET "ISO-8859-1";
+h2,h4
+{
+	color:white;
+}
+.table {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  width:33%;
+  color:white;
+  
+}
+
+
+.table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  color: rgb(19, 31, 48);
+  background-color: white;
+  width:338px;
+}
+
+#name td
+{
+ 
+  padding: 8px;
+   color: rgb(19, 31, 48);
+  background-color:white;
+  border-spacing:1px;
+}
+
+#delete th
+{
+  
+  padding: 8px;
+  width:30%;
+  color:rgb(19,31,48);
+   
+}
+.pdf th
+{
+	width:50%;
+}
